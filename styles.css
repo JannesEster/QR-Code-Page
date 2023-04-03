@@ -1,0 +1,37 @@
+body{
+    background-image: url("images/spk-img.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: rgb(109, 108, 108);
+    text-align: center;
+}
+.top-container{
+    
+    height: 300px;
+    margin: auto;
+}
+.main{
+    background-color: white;
+    border-radius: 30px;
+    width: 375px;
+    height: 700px;
+    margin: auto;
+    
+}
+.bottom-container{
+   
+    height: 300px;
+    margin: auto;
+}
+.qr-img{
+    border-radius: 15px;
+    width: 90%;
+    margin: 5% ;
+    
+}
